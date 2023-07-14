@@ -506,8 +506,12 @@
                     "texture": ["https://www.geo-fs.com/models/aircraft/premium/a350/texture_1.jpg"]
                 },
                 {
-                    "name": "Test",
-                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/test1.png"]
+                    "name": "Air Mauritius",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/Mauritius.png"]
+                },
+                {
+                    "name": "China Airlines",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/ChinaAirlines.png"]
                 }
             ]
         },
