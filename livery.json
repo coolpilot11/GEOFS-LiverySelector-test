@@ -422,15 +422,15 @@
                 }
             ]
         },
-                "14": {
-            "index": [6],
+                "4631": {
+            "index": [0],
             "parts": [0],
             "liveries": [{
-                    "name": "Criquet",
+                    "name": "no",
                     "texture": ["/models/aircraft/premium/cricri/texture_0.jpg"]
                 },
                 {
-                    "name": "test",
+                    "name": "Garuda Indonesia",
                     "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/Untitled%20drawing%20(3)%20(1).png"]
                 }
             ]
