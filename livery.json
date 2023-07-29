@@ -426,8 +426,8 @@
             "index": [0],
             "parts": [0],
             "liveries": [{
-                    "name": "no",
-                    "texture": ["/models/aircraft/premium/cricri/texture_0.jpg"]
+                    "name": "Air Belgium",
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/AirBelgium.png"]
                 },
                 {
                     "name": "Garuda Indonesia",
