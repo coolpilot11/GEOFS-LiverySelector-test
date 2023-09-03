@@ -522,6 +522,10 @@
                     "name": "Air Mauritius",
                     "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/Mauritius.png"]
                 },
+               {
+                    "name": "Air Fin",
+                    "texture": ["https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/finnair.jpg"]
+                },
                 {
                     "name": "World2Fly",
                     "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/W2FLY2.png"]
