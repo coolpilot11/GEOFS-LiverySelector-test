@@ -7,6 +7,7 @@
                     "name": "Yellow",
                     "texture": ["/models/aircraft/premium/cub/texture_0.jpg"]
                 },
+                {
                    "name": "f16 delta",
                     "texture": ["https://cdn.discordapp.com/attachments/1086991627723227298/1099025059315728516/deltaf16.png?ex=6532b9d9&is=652044d9&hm=e151a62458eb848a02c9bb59e78fb2f553df4ce0b6e3ea2384cbaaad27e7c0ad&"]
                 },
