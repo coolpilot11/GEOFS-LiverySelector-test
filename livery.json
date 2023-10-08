@@ -1,10 +1,13 @@
 {
     "aircrafts": {
-        "1": {
+        "7": {
             "index": [3],
             "parts": [0],
             "liveries": [{
                     "name": "Yellow",
+                    "texture": ["/models/aircraft/premium/cub/texture_0.jpg"]
+                },
+                   "name": "Yellow",
                     "texture": ["/models/aircraft/premium/cub/texture_0.jpg"]
                 },
                 {
