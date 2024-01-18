@@ -35,7 +35,7 @@
             "parts": [0],
             "liveries": [{
                     "name": "not klm anymore",
-                    "texture": ["https://github.com/coolpilot11/stuff/blob/main/va737-700test.jpg?raw=true"]
+                    "texture": ["https://raw.githubusercontent.com/coolpilot11/stuff/main/va737-700test.jpg"]
                 },
                 {
                     "name": "United (old design)",
