@@ -34,8 +34,8 @@
             "index": [3],
             "parts": [0],
             "liveries": [{
-                    "name": "KLM (old design)",
-                    "texture": ["/models/aircraft/premium/737_700/texture_0.jpg"]
+                    "name": "not klm anymore",
+                    "texture": ["https://github.com/coolpilot11/stuff/blob/main/va737-700test.jpg?raw=true"]
                 },
                 {
                     "name": "United (old design)",
